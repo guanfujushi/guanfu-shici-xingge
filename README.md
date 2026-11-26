@@ -4,6 +4,8 @@
 
 **作者：观复居士 ·商务合作：13148728713；微信号：guanfujs**
 
+[![SkillHub](https://img.shields.io/badge/下载-SkillHub-orange)](https://www.skillhub.cn/skills/guanfu-shici-xingge)
+
 **English**: Classic Chinese poetry and famous quotes as personality lessons — a 20-quotes × personality-theme mapping table, a four-step appreciation method, writing templates, three rules for classical-to-modern translation, and six common misreadings. Educational & cultural reference.
 
 ---
